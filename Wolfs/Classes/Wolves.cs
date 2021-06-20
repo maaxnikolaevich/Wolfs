@@ -8,6 +8,7 @@ namespace Wolfs
 {
     public class FemaleWolf
     {
+
     }
 
     public class Wolf
